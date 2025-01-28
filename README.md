@@ -44,10 +44,6 @@ wget https://raw.githubusercontent.com/lionsoul2014/ip2region/master/data/ip2reg
     'https://*.example.com',
     'http://*.example.com'
 ]
-## Trae AI
-使用了 2 个参考
-
-我来帮你完善 README.md 文件：
 
 ```markdown
 # IP Location Service
