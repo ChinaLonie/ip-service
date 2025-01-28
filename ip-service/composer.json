@@ -1,0 +1,14 @@
+{
+    "name": "ymscip/ip-service",
+    "description": "IP region query service based on ip2region",
+    "require": {
+        "php": ">=7.2",
+        "zoujingli/ip2region": "^2.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "IpService\\": "src/",
+            "Zoujingli\\Ip2region\\": "vendor/zoujingli/ip2region/"
+        }
+    }
+}
